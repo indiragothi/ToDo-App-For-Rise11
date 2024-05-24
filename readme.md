@@ -1,14 +1,14 @@
 # Installation
 Run the following command to clone the repository
-
+```
+# Clone
+https://github.com/indiragothi/ToDo-App-For-Rise11
 ```
 Go to ```frontend``` and ```backend``` directory to install packages
 ```
 cd frontend
 npm install
 ```
-# Clone
-https://github.com/indiragothi/ToDo-App-For-Rise11
 ```
 cd backend
 npm install
@@ -32,6 +32,5 @@ nodemon server
 ```
 cd frontend
 npm start
+```
  
-
-
