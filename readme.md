@@ -7,6 +7,8 @@ Go to ```frontend``` and ```backend``` directory to install packages
 cd frontend
 npm install
 ```
+# Clone
+https://github.com/indiragothi/ToDo-App-For-Rise11
 ```
 cd backend
 npm install
