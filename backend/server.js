@@ -3,6 +3,7 @@ import mongoose from "mongoose"
 import cors from "cors"
 import dotenv from "dotenv"
 
+// Routes
 import userRouter from "./routes/userRoute.js"
 import taskRouter from "./routes/taskRoute.js"
 import forgotPasswordRouter from "./routes/forgotPassword.js"
